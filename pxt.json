@@ -1,0 +1,17 @@
+{
+  "name": "pxt-awesome-raycasting",
+  "version": "0.0.1",
+  "description": "A raycasting extension for MakeCode Arcade supporting ceilings, floors, stairs, and variable wall heights.",
+  "files": [
+    "raycasting3d.ts",
+    "README.md"
+  ],
+  "public": true,
+  "dependencies": {
+    "core": "*"
+  },
+  "supportedTargets": [
+    "arcade"
+  ],
+  "preferredEditor": "tsprj"
+}
